@@ -26,7 +26,7 @@ variable "enrollment_account_name" {
 variable "azure_client_id" {
   type        = string
   description = "app resigstration client_id"
-  default     = "4ccbea72-0082-450a-9328-267aa9b8cff3"
+  default     = ""
 }
 
 variable "azure_client_secret" {
